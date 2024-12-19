@@ -1,0 +1,19 @@
+name: CSMPSacks
+version: '1.0'
+main: ovh.csmp.cSMPSacks.CSMPSacks
+api-version: '1.21'
+load: STARTUP
+authors: [ kafae ]
+description: e
+website: csmp.ovh
+
+commands:
+  itemgive:
+    description: 'Give user a custom item'
+    usage: '/itemgive <itemid> <count>'
+    permission: minecraft.command.op
+    permission-message: 'You do not have permission to use this command.'
+  ability:
+    description: 'Interacte with ability system'
+    usage: '/ability <action> <ability_id> <slot>'
+
