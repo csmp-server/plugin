@@ -2,3 +2,6 @@ CSMP Sacks © 2024 by CSMP Developer Team is licensed under Creative Commons Att
 
 ## Terms and Conditions (If you're using this in any sort of way please read):
    You MAY use this for your own PERSONAL use but please follow the license stated above
+
+## Plugin tested versions
+- 1.21.1
