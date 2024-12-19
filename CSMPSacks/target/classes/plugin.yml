@@ -14,6 +14,6 @@ commands:
     permission: minecraft.command.op
     permission-message: 'You do not have permission to use this command.'
   ability:
-    description: 'Interacte with ability system'
+    description: 'Interact with ability system'
     usage: '/ability <action> <ability_id> <slot>'
 
