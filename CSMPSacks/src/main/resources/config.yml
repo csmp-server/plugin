@@ -1,8 +1,0 @@
-timer:
-  grace: 1
-  pvp: 1
-  warningtime: 1
-  messages:
-    warning: "§cPVP will be enabled in %d minutes"
-    enable: "§4PVP is enabled"
-    disable: "§aPVP is disabled"
